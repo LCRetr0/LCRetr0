@@ -18,8 +18,8 @@ I am also a student of Data Science and Java back-end development, both at Alura
 <a href="https://github.com/LCR3tro">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCR3tro&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LCR3tro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-![Snake animation](https://github.com/seu-usuário-aqui/LCR3tro/blob/output/github-contribution-grid-snake.svg)
+</div>  
+![Snake animation](https://github.com/LCR3tro/LCR3tro/blob/output/github-contribution-grid-snake.svg)
 ## Socials:
 <div>
 <a href="https://instagram.com/lcr3tro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
