@@ -16,7 +16,7 @@ I am also a student of Data Science and Java back-end development, both at Alura
 <a href="https://github.com/LCR3tro">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCR3tro&layout=compact&langs_count=7&theme=dracula"/>
 </div>    
-## Socials:
+###Socials:
 <div>
 <a href="https://instagram.com/lcr3tro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "lucassilvacerqueira29@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
