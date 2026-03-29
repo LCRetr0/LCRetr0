@@ -17,9 +17,6 @@ I Love Watch Dogs and The Last of Us!
 ## GitHub Stats ⚡
 <div>
   <a href="https://github.com/LCR3tro">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LCR3tro&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCR3tro&layout=compact&langs_count=7&theme=radical"/> 
   </center>
