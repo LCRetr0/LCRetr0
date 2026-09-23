@@ -7,7 +7,7 @@ I am a Computer Science student at Uniruy Wyden College;
 
 I am also a student of PHP and Java back-end development, both at Alura;    
 I'm a programmer focusing on full-stack development, and I am currently in my second year of computer science, but I enjoy anything related to programming.  
-I Love Watch Dogs and The Last of Us!
+I Love Watch Dogs, The Last of Us and CyberPunk!
 
 * 🌍  I'm based in Brasil, Salvador, Bahia  
 ## Languages e Tools 💻
@@ -24,12 +24,11 @@ I Love Watch Dogs and The Last of Us!
 </div>
 
 ## GitHub Stats ⚡
-<div>
+<div align="left">
   <a href="https://github.com/LCRetr0">
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCRetr0&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>  
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LCRetr0&layout=compact&langs_count=7&theme=radical" alt="LCRetr0 Top Languages" />
+  </a>
+</div>
   
 ## Reach me 📫
 <div>
