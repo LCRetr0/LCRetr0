@@ -6,7 +6,8 @@ About Me:
 I am a Computer Science student at Uniruy Wyden College;
 
 I am also a student of PHP and Java back-end development, both at Alura;    
-I'm a programmer focusing on full-stack development, and I am currently in my second year of computer science, but I enjoy anything related to programming.  
+I'm a programmer focusing on full-stack development, and I am currently in my second year of computer science, but I enjoy anything related to programming.    
+I currently work at Vivo as an intern, doing automations with Py.  
 I Love Watch Dogs, The Last of Us and CyberPunk!
 
 * 🌍  I'm based in Brasil, Salvador, Bahia  
